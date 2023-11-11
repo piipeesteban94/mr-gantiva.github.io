@@ -18,7 +18,7 @@ Este es mi portafolio personal como Desarrollador Frontend, donde presento mi ex
 
 ## Demo
 
-[Enlace a la demo del portafolio](#https://mr-gantiva.github.io/)
+[Enlace a la demo del portafolio](https://mr-gantiva.github.io/)
 
 ## Capturas de Pantalla
 
